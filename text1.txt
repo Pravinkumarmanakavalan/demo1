@@ -1,1 +1,0 @@
-Its just a design for home page using html and  css.
